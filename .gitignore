@@ -1,1 +1,5 @@
 build
+
+*.pyc
+
+pyOSC.egg-info/
